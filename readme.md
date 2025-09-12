@@ -20,10 +20,10 @@ The model is built using **Support Vector Classifier (SVC)** and trained on a da
   Recommends medications that could be helpful for the diagnosed condition.
 
 - **Diet Chart**  
-  Suggests dietary habits and nutritional guidance. *(Work in progress)*
+  Suggests dietary habits and nutritional guidance. 
 
 - **Workout**  
-  Suggests suitable workouts for better recovery and lifestyle improvement. *(Work in progress)*
+  Suggests suitable workouts for better recovery and lifestyle improvement. 
 
 ---
 
@@ -37,9 +37,6 @@ git clone https://github.com/your-username/smart-ai-doctor.git
 
 # Navigate into the folder
 cd smart-ai-doctor
-
-# Install dependencies
-pip install -r requirements.txt
 
 # Run the Flask app
 python app.py
@@ -55,7 +52,7 @@ Then, open your browser and visit:
 - **Python** – Core programming language  
 - **Scikit-learn (SVC)** – Machine Learning model for disease prediction  
 - **Flask** – Web framework for the user interface  
-- **HTML/CSS/JS** – Frontend for user interaction  
+- **HTML/CSS/JS** – Frontend for user interaction
 
 ---
 
@@ -83,7 +80,15 @@ smart-ai-doctor/
 
 ## 📸 Screenshots
 
-_Add your screenshots here to showcase the project UI and functionality._
+### Home Page
+![Home Page](Model/Demo_1.jpg)
+
+### Results Page
+![Input Page](Model/Demo_2.jpg)
+
+### Features Page
+![Features Page](Model/Demo_3.jpg)
+
 
 ---
 
