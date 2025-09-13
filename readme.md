@@ -115,7 +115,3 @@ You are free to use, modify, and distribute this project for personal or commerc
 
 ---
 
-## 👨‍💻 Author
-
-Developed with ❤️ by **Your Name**  
-
